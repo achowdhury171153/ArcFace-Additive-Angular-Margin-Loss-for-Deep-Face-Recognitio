@@ -1,23 +1,54 @@
 Arcface Video from Youtube
+
 https://www.youtube.com/watch?v=Qa1WWYtYPE8
 
 tf.keras.regularizers.l2(weights_decay) explained!
+
 https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd
+
 https://keras.io/api/layers/regularizers/
 
 ResNet Explained!
 C4W2L03 Resnets:
+
 https://www.youtube.com/watch?v=ZILIbUvp5lk 
+
+Why ResNets Work
+
+https://www.youtube.com/watch?v=RYth6EbBUqM
+
 https://www.youtube.com/watch?v=sAzL4XMke80
 
+***ResNet-50***
+https://www.kaggle.com/keras/resnet50?select=resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+
+resnet50v2-function::
+
+https://keras.io/api/applications/resnet/#resnet50v2-function
+
+DropOut():
+
+https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
+
+tf.keras.layers.Flatten(): ##adding extra channel dimension!
+
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Flatten
+
+
+
+
 dataset.load_tfrecord_dataset():
+
 https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset
 
 Batch normalization in Neural Networks:
+
 https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
+
 https://keras.io/api/layers/normalization_layers/batch_normalization/
 
 MobileNetV2 — Light Weight Model (Image Classification):
+
 https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c
 
 
