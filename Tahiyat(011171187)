@@ -22,4 +22,5 @@ https://www.tensorflow.org/datasets/catalog/imagenet2012
 https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
 https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 https://metacademy.org/graphs/concepts/weight_decay_neural_networks
+https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset
 
