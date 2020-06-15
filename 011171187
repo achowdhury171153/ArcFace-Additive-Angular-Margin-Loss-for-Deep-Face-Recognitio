@@ -1,0 +1,25 @@
+Explaination of arcface: https://www.groundai.com/project/arcface-additive-angular-margin-loss-for-deep-face-recognition/1#bib.bib33
+Whole project code- https://github.com/peteryuX/arcface-tf2
+
+To know more about arcface: https://www.youtube.com/watch?v=H1qEp_czI1I
+Code- https://github.com/peteryuX/arcface-tf2/blob/master/modules/models.py
+https://github.com/peteryuX/arcface-tf2/blob/master/modules/layers.py
+https://github.com/peteryuX/arcface-tf2/blob/master/configs/arc_res50.yaml
+
+Creating a model tutorial- https://www.youtube.com/watch?v=XNKeayZW4dY
+
+Methods of keras- https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dropout
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Flatten#used-in-the-notebooks_1
+https://www.tensorflow.org/api_docs/python/tf/keras/Model
+https://www.tensorflow.org/api_docs/python/tf/identity
+
+Network architecture- https://www.tensorflow.org/api_docs/python/tf/keras/applications/ResNet50
+
+Dataset- https://megapixels.cc/msceleb/
+https://www.tensorflow.org/datasets/catalog/imagenet2012
+
+https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
+https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
+https://metacademy.org/graphs/concepts/weight_decay_neural_networks
+
