@@ -1,9 +1,24 @@
-a)Arcface Video from Youtube
+Arcface Video from Youtube
 https://www.youtube.com/watch?v=Qa1WWYtYPE8
 
-b)tf.keras.regularizers.l2(weights_decay) explained!
+tf.keras.regularizers.l2(weights_decay) explained!
 https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd
 https://keras.io/api/layers/regularizers/
 
-d) ResNet Explained!
+ResNet Explained!
+C4W2L03 Resnets:
+https://www.youtube.com/watch?v=ZILIbUvp5lk 
 https://www.youtube.com/watch?v=sAzL4XMke80
+
+dataset.load_tfrecord_dataset():
+https://www.tensorflow.org/api_docs/python/tf/data/TFRecordDataset
+
+Batch normalization in Neural Networks:
+https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c
+https://keras.io/api/layers/normalization_layers/batch_normalization/
+
+MobileNetV2 — Light Weight Model (Image Classification):
+https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c
+
+
+
